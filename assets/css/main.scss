@@ -1,0 +1,268 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
+}
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+/*
+ * Language Toggle Button
+ */
+
+.lang-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: .5em;
+  padding: .25em .65em;
+  border: 1.5px solid $border-color;
+  border-radius: 999px;       // pill shape
+  background: transparent;
+  cursor: pointer;
+  font-size: .78em;
+  font-weight: 600;
+  letter-spacing: .02em;
+  color: $text-color;
+  font-family: $sans-serif-narrow;
+  transition: color .2s ease, border-color .2s ease, background .2s ease;
+  vertical-align: middle;
+  white-space: nowrap;
+  line-height: 1.6;
+
+  &:hover {
+    background-color: $lighter-gray;
+    border-color: $gray;
+    color: $darker-gray;
+  }
+
+  &:active {
+    transform: scale(.95);
+  }
+}
+
+/*
+ * Language Visibility — .lang-en / .lang-zh blocks
+ * Must use `html` as explicit root to avoid `:not([data-lang])` matching
+ * every ancestor element (body, div, etc.) and permanently hiding .lang-zh.
+ */
+
+html:not([data-lang]) .lang-zh,
+html[data-lang="en"] .lang-zh {
+  display: none !important;
+}
+
+html[data-lang="zh"] .lang-en {
+  display: none !important;
+}
+
+/*
+ * Dark Theme
+ */
+
+[data-theme="dark"] {
+  // data-theme 现在挂在 <html> 上，直接在此设置 html 自身的背景色
+  background-color: $dark-background-color;
+
+  body,
+  .page,
+  .archive,
+  .sidebar {
+    background-color: $dark-background-color;
+    color: $dark-text-color;
+  }
+
+  .initial-content-wrap {
+    background-color: $dark-background-color;
+  }
+
+  a {
+    color: $dark-link-color;
+    &:hover {
+      color: lighten($dark-link-color, 15%);
+    }
+  }
+
+  h1, h2, h3, h4, h5, h6, .page__title, .sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6 {
+    color: $dark-text-color;
+  }
+
+  .masthead {
+    background-color: $dark-background-color;
+    border-bottom-color: $dark-border-color;
+  }
+
+  .greedy-nav {
+    background-color: $dark-background-color;
+    a {
+      color: $dark-text-color;
+    }
+  }
+
+  .lang-toggle {
+    color: $dark-text-color;
+    border-color: $dark-border-color;
+    &:hover {
+      background-color: lighten($dark-background-color, 10%);
+      border-color: $dark-text-color;
+    }
+  }
+
+  .theme-toggle {
+    .sun, .moon {
+      stroke: $dark-text-color;
+    }
+    &:hover {
+      .sun, .moon {
+        stroke: lighten($dark-link-color, 15%);
+      }
+    }
+  }
+
+  .page__footer {
+    background-color: lighten($dark-background-color, 5%);
+    border-top-color: $dark-border-color;
+  }
+
+  .paper-box {
+    border-bottom-color: $dark-border-color;
+  }
+
+  pre, code {
+    background-color: $dark-code-background-color;
+    border-color: $dark-border-color;
+    color: $dark-text-color;
+  }
+
+  .page__content p,
+  .page__content li,
+  .page__content dl,
+  .sidebar p,
+  .sidebar li {
+      color: $dark-text-color;
+  }
+
+  hr, .page__share, .page__meta, .page__related {
+    border-color: $dark-border-color;
+  }
+
+  .hidden-links, .author__urls {
+    background: $dark-background-color;
+    border-color: $dark-border-color;
+    li {
+      border-bottom-color: $dark-border-color;
+    }
+    &:after {
+      border-color: $dark-background-color transparent;
+    }
+    &:before {
+      border-color: $dark-border-color transparent;
+    }
+  }
+
+  .author__avatar img {
+    border-color: $dark-border-color;
+  }
+}
