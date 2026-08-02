@@ -12,11 +12,11 @@ redirect_from:
 {% include_relative includes/intro.md %}
 
 <div class="lang-en" markdown="1">
-If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
+This academic homepage is modified based on the template originally developed by [Yi Ren](https://rayeren.github.io/). If you like this homepage template, feel free to star and fork my open-source repository [yifanduan-ncst](https://github.com/YifanDuan-NCST/yifanduan-ncst.github.io).
 </div>
 
 <div class="lang-zh" markdown="1">
-如果你喜欢这个主页的模板，欢迎 star 并 fork 我的开源模板 [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io)。
+我的主页模板来自于[Yi Ren](https://rayeren.github.io/)，并在此基础上进行了更改。如果你喜欢这个主页的模板，欢迎 star 并 fork 我的开源模板 [yifanduan-ncst](https://github.com/YifanDuan-NCST/yifanduan-ncst.github.io)。
 </div>
 
 {% include_relative includes/news.md %}

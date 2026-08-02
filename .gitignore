@@ -1,4 +1,83 @@
+# =====================
+# Jekyll 构建产物
+# =====================
 _site/
-push.sh
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+*.gem
+
+# =====================
+# Ruby / Bundler
+# =====================
+.bundle/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
+
+# =====================
+# Python 爬虫 / 脚本
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# =====================
+# IDE / 编辑器
+# =====================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# =====================
+# 操作系统
+# =====================
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# =====================
+# 敏感 / 本地配置
+# =====================
+.env
+.env.local
+*.secret
+push.sh
+secrets.yml
+
+# =====================
+# 日志 & 临时文件
+# =====================
+*.log
+*.tmp
+*.bak
+*.orig
+
+# =====================
+# 项目特定排除
+# =====================
+# github_myprofile_updater 的本地说明（非项目文档）
 /github_myprofile_updater/README.md

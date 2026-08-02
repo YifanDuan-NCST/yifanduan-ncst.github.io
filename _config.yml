@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yifan Duan (段一凡)"
-description              : "Focusing on video and speech large generation model."
-description_zh           : "专注于视频与语音大生成模型研究。"
+description              : "Focus on the interdisciplinary field of iron and steel metallurgy and artificial intelligence.."
+description_zh           : "高炉炼铁智能化技术研究者，专注钢铁冶金与人工智能交叉领域"
 repository               : "YifanDuan-NCST/yifanduan-ncst.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,13 +26,13 @@ author:
   avatar           : "images/yifanduan.png"
   bio              : ""
   bio_zh           : ""
-  location         : "Singapore"
-  location_zh      : "新加坡"
-  employer         : "HeyGen"
-  employer_zh      : "HeyGen"
+  location         : "Tangshan, Hebei, China"
+  location_zh      : "河北唐山，中国"
+  employer         : "North China University of Science and Technology"
+  employer_zh      : "华北理工大学"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=YjGSWg0AAAAJ"
+  email            : "yifanduan@stu.ncst.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -41,15 +41,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "YifanDuan-NCST"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
+  linkedin         : ""
   dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  orcid            : "https://orcid.org/0000-0002-7848-934X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

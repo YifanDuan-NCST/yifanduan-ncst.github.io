@@ -30,23 +30,20 @@
       {% endif %}
       {% if author.location %}
         <li>
-          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
-          <span class="lang-en">{{ author.location }}</span>
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span class="lang-en">{{ author.location }}</span>
           <span class="lang-zh">{{ author.location_zh | default: author.location }}</span>
         </li>
       {% endif %}
       {% if author.employer %}
         <li>
-          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
-          <span class="lang-en">{{ author.employer }}</span>
-          <span class="lang-zh">{{ author.employer_zh | default: author.employer }}</span>
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <a href="https://www.ncst.edu.cn/" style="display: inline; white-space: normal; word-wrap: break-word; overflow-wrap: break-word;"><span class="lang-en">{{ author.employer }}</span><span class="lang-zh">{{ author.employer_zh | default: author.employer }}</span></a>
         </li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> <span class="lang-en">Website</span><span class="lang-zh">个人网站</span></a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <span class="lang-en">Email</span><span class="lang-zh">邮箱</span></a></li>
+        <li><a href="mailto:{{ author.email }}" style="white-space: normal; word-wrap: break-word; overflow-wrap: break-word;"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <span class="lang-en">Email: {{ author.email }}</span><span class="lang-zh">邮箱: {{ author.email }}</span></a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -127,7 +124,7 @@
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <li><a href="{{ author.orcid }}" style="white-space: normal; word-wrap: break-word; overflow-wrap: break-word;"><i class="ai ai-orcid-square ai-fw"></i> ORCID: {{ author.orcid }}</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>

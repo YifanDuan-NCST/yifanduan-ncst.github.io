@@ -1,11 +1,8 @@
 <h1 id="-honors-and-awards"><span class="lang-en">🎖 Honors and Awards</span><span class="lang-zh">🎖 荣誉与奖项</span></h1>
 
-- *2021.10* <span class="lang-en">Tencent Scholarship (Top 1%)</span><span class="lang-zh">腾讯奖学金（前 1%）</span>
-- *2021.10* <span class="lang-en">National Scholarship (Top 1%)</span><span class="lang-zh">国家奖学金（前 1%）</span>
-- *2020.12* [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) <span class="lang-en">(10 students in the world each year)</span><span class="lang-zh">（百度奖学金，全球每年仅 10 名）</span>
-- *2020.12* [AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) <span class="lang-en">(100 worldwide each year)</span><span class="lang-zh">（AI 中国新星百强，全球每年 100 名）</span>
-- *2020.12* [AI Chinese New Star Outstanding Scholar](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) <span class="lang-en">(10 candidates worldwide each year)</span><span class="lang-zh">（AI 中国新星杰出学者，全球每年仅 10 名）</span>
-- *2020.12* [ByteDance Scholars Program](https://ur.bytedance.com/scholarship) <span class="lang-en">(10 students in China each year)</span><span class="lang-zh">（字节跳动奖学金，全球每年仅 10 名）</span>
-- *2020.10* <span class="lang-en">Tianzhou Chen Scholarship (Top 1%)</span><span class="lang-zh">陈天洲奖学金（前 1%）</span>
-- *2020.10* <span class="lang-en">National Scholarship (Top 1%)</span><span class="lang-zh">国家奖学金（前 1%）</span>
-- *2015.10* <span class="lang-en">National Scholarship (Undergraduate) (Top 1%)</span><span class="lang-zh">国家奖学金（本科，前 1%）</span>
+- *2026.07*, <span class="lang-en">Participated in the "Leading Plan" National Conditions Study Program for Young Scientific and Technological Talents (China Association for Science and Technology).</span><span class="lang-zh">参加"领航计划"青年科技人才国情研修活动（中国科协）。</span>
+- *2025.11*, <span class="lang-en">Selected for the 2025 Doctoral Program of the China Association for Science and Technology Youth Science and Technology Talent Cultivation Project.</span><span class="lang-zh">入选2025年中国科协青年科技人才培育工程博士生专项。</span>
+- *2025.10*, <span class="lang-en">National Scholarship for Doctoral Students of North China University of Science and Technology for the 2025 Academic Year.</span><span class="lang-zh">获得华北理工大学2025学年博士研究生国家奖学金。</span>
+- *2025.09*, <span class="lang-en">Second Prize at the 4th National Simulation Innovation Application Competition.</span><span class="lang-zh">第四届全国仿真创新应用大赛全国二等奖。</span>
+- *2024.05*, <span class="lang-en">Participated in the North China University of Science and Technology Doctoral Presentation Group (as the sole student representative).</span><span class="lang-zh">参与华北理工大学博士宣讲团（唯一学生代表）。</span>
+- *2023.09*, <span class="lang-en">Outstanding Undergraduate Thesis of North China University of Science and Technology in 2023.</span><span class="lang-zh">华北理工大学2023年度优秀本科毕业论文。</span>

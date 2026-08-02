@@ -1,22 +1,19 @@
 
 <h1 id="-educations"><span class="lang-en">📖 Educations</span><span class="lang-zh">📖 教育经历</span></h1>
 
-- *2019.06 - 2022.04*, <span class="lang-en">Master, Zhejiang University, Hangzhou.</span><span class="lang-zh">硕士，浙江大学，杭州。</span>
-- *2015.09 - 2019.06*, <span class="lang-en">Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.</span><span class="lang-zh">本科，浙江大学竺可桢学院，杭州。</span>
-- *2012.09 - 2015.06*, <span class="lang-en">Luqiao Middle School, Taizhou.</span><span class="lang-zh">路桥中学，台州。</span>
+- *2023.09 - to date*, <span class="lang-en">Ph.D. Student, North China University of Science and Technology, Tangshan, Hebei, China, Major in Metallurgical Engineering.</span><span class="lang-zh">博士研究生，华北理工大学，河北唐山，中国，冶金工程专业。</span>
+- *2019.09 - 2023.06*, <span class="lang-en">Undergraduate, North China University of Science and Technology, Tangshan, Hebei, China, Major in Metallurgical Engineering.</span><span class="lang-zh">本科，华北理工大学，河北唐山，中国，冶金工程专业。</span>
 
-<h1 id="-invited-talks"><span class="lang-en">💬 Invited Talks</span><span class="lang-zh">💬 特邀演讲</span></h1>
+<h1 id="-invited-talks"><span class="lang-en">💬 Academic Presentations</span><span class="lang-zh">💬 学术汇报</span></h1>
 
-- *2022.02*, <span class="lang-en">Hosted MLNLP seminar</span><span class="lang-zh">主持 MLNLP 研讨会</span> \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, <span class="lang-en">Audio & Speech Synthesis, Huawei internal talk</span><span class="lang-zh">音频与语音合成，华为内部演讲</span>
-- *2021.03*, <span class="lang-en">Non-autoregressive Speech Synthesis, PaperWeekly & biendata</span><span class="lang-zh">非自回归语音合成，PaperWeekly 与 biendata</span> \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, <span class="lang-en">Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk</span><span class="lang-zh">非自回归语音合成，华为诺亚方舟实验室内部演讲</span>
+- *2025*, <span class="lang-en">Academic Report at the 7th Youth Scholars Forum on Ironmaking: "Application and Prospects of Knowledge Graphs in Intelligent Blast Furnace Ironmaking".</span><span class="lang-zh">第七届炼铁青年学者论坛作学术报告：[《知识图谱在高炉炼铁智能化的应用及展望》](https://www.sohu.com/a/897377782_313737)。</span>
+- *2024*, <span class="lang-en">2024 Academic Report at the National Annual Conference on Blast Furnace Ironmaking: "Research on Intelligent Detection and Adaptive Control of Blast Furnace Tuyere Status".</span><span class="lang-zh">2024全国高炉炼铁学术年会作学术报告：[《高炉风口状态智能检测与自适应调控研究》](https://www.csm.org.cn/col/col8034/art/2024/art_1012223809.html)。</span>
+- *2024*, <span class="lang-en">Academic Report at the 6th Youth Scholars Forum on Ironmaking: "Research on Key Measures for Increasing Vanadium in Hot Metal Based on Theoretical Analysis and Data Mining".</span><span class="lang-zh">第六届炼铁青年学者论坛作学术报告：《基于理论分析与数据挖掘的铁水增钒关键措施研究》。</span>
 
-<h1 id="-internships"><span class="lang-en">💻 Internships</span><span class="lang-zh">💻 实习经历</span></h1>
+<h1 id="-projects"><span class="lang-en">💻 Research Projects</span><span class="lang-zh">💻 科研项目参与情况</span></h1>
 
-- *2021.06 - 2021.09*, Alibaba, <span class="lang-en">Hangzhou.</span><span class="lang-zh">杭州。</span>
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), <span class="lang-en">Hangzhou.</span><span class="lang-zh">杭州。</span>
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), <span class="lang-en">Hangzhou.</span><span class="lang-zh">杭州。</span>
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), <span class="lang-en">Beijing.</span><span class="lang-zh">北京。</span>
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), <span class="lang-en">Hangzhou.</span><span class="lang-zh">杭州。</span>
-- *2017.08 - 2018.12*, DashBase (<span class="lang-en">acquired by</span><span class="lang-zh">被</span> [Cisco](https://blogs.cisco.com/news/349511) <span class="lang-zh">收购</span>), <span class="lang-en">Hangzhou.</span><span class="lang-zh">杭州。</span>
+- *2026*, <span class="lang-en">Participated in Xiong'an Special Project: Research on "Trusted Data Space".</span><span class="lang-zh">参与雄安专项"可信数据空间"研究。</span>
+- *2025*, <span class="lang-en">Principal Investigator of 1 Hebei Provincial Graduate Innovation Capability Cultivation Project.</span><span class="lang-zh">主持河北省研究生创新能力培养项目1项。</span>
+- *2024*, <span class="lang-en">Core member participating in 1 Hebei Provincial Natural Science Foundation Project.</span><span class="lang-zh">作为主研人参与河北省自然科学基金1项。</span>
+- *2024*, <span class="lang-en">Participated in 1 Hebei Provincial Innovation Capability Enhancement Plan Project.</span><span class="lang-zh">参与河北省创新能力提升计划项目1项。</span>
+- *2024*, <span class="lang-en">Participated in multiple HBIS Group horizontal projects, including "Research on Intelligent Ironmaking Technology Based on Blast Furnace Big Data" and "Intelligent Monitoring and Early Warning System for Blast Furnace Iron Front Operation Status".</span><span class="lang-zh">参与河钢集团横向课题《高炉大数据智能炼铁技术研究》《高炉铁前运行状态智能监测及预警系统》等多项横向课题。</span>
