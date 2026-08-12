@@ -37,7 +37,7 @@
 [**Project**](https://link.springer.com/article/10.1007/s42243-025-01600-7) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
 
 <div class="lang-en" markdown="1">
-  - Through theoretical analysis and data mining, this work designs a deep learning architecture to efficiently and accurately realize the continuous prediction and regulation of single-iron secondary iron output of blast furnace, and solves the problem of metal iron waste caused by unknown pig iron output. To a certain extent, it alleviates the heat loss of iron ladle transportation, which is conducive to promoting the intelligent level of blast furnace in China and reducing costs and increasing efficiency..
+  - Through theoretical analysis and data mining, this work designs a deep learning architecture to efficiently and accurately realize the continuous prediction and regulation of single-iron secondary iron output of blast furnace, and solves the problem of metal iron waste caused by unknown pig iron output. To a certain extent, it alleviates the heat loss of iron ladle transportation, which is conducive to promoting the intelligent level of blast furnace in China and reducing costs and increasing efficiency.
 </div>
 
 <div class="lang-zh" markdown="1">
@@ -47,7 +47,48 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISIJ 2024</div><img src='../../images/isij_1.jpg' alt="sym" width="400px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic prediction model of yield of molten iron based on multi-head attention mechanism ](https://link.springer.com/article/10.1007/s42243-025-01600-7) \\
+**Yifan Duan**, Xiaojie Liu, Xin Li, Ran Liu, Hongwei Li, Jun Zhao
+
+[**Project**](https://doi.org/10.2355/isijinternational.ISIJINT-2023-257) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+
+<div class="lang-en" markdown="1">
+  - This work considers the characteristics that the molten iron output and its corresponding synergistic parameters vary with the furnace conditions. The multi-head attention mechanism is used to capture the attention score of the feature variable, and the weight matrix of the predictor is dynamically regulated, so that it can assign more training weights to the high-value feature parameters in real time according to the change of the furnace condition, and efficiently complete the prediction of molten iron production.
+</div>
+
+<div class="lang-zh" markdown="1">
+  - 该项工作考虑铁水产量和与其对应的协同参数依炉况不同而变化的特点.使用多头注意力机制捕捉特征变量的注意力得分，动态调控预测器的权值矩阵，使其能够依照炉况变化实时分配给高价值特征参数更多的训练权重，高效完成铁水产量的预测。
+</div>
+
+</div>
+</div>
+
 <h2><span class="lang-en">🐳 Blast furnace intelligent theory innovation</span><span class="lang-zh">🐳 高炉智能化理论创新</span></h2>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Xinyang Normal University(Natural Science Edition) 2026</div><img src='../../images/xysfxb_1.png' alt="sym" width="400px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A new intelligent paradigm for blast furnace ironmaking based onlarge language model + industrial agents](https://kns.cnki.net/kcms2/article/abstract?v=VKKkywmE6pA1KMsHhmV5AUvDRk63iH6uqkg4tlLh_C8v1RjG2n52UURKiQeGwKQEgSK6P_Evcmkibt8xD32xZ4_FXmqBdmwRehgYcm55upxSEpjDk9Arn5n6lczYUr6aI5EvHf1pP1LDyklhEC70jWQtnaOel7VdP4R0lM_1pmJdELzz05lvtQ==&uniplatform=NZKPT&language=CHS) \\
+**Yifan Duan**, Xiaojie Liu, Hongwei Li, Hongyang Li, Ran Liu
+
+[**Project**](https://kns.cnki.net/kcms2/article/abstract?v=VKKkywmE6pA1KMsHhmV5AUvDRk63iH6uqkg4tlLh_C8v1RjG2n52UURKiQeGwKQEgSK6P_Evcmkibt8xD32xZ4_FXmqBdmwRehgYcm55upxSEpjDk9Arn5n6lczYUr6aI5EvHf1pP1LDyklhEC70jWQtnaOel7VdP4R0lM_1pmJdELzz05lvtQ==&uniplatform=NZKPT&language=CHS) 
+
+<div class="lang-en" markdown="1">
+  - The collaborative architecture of vertical LLM and industrial agent for blast furnace ironmaking is constructed for the first time, and the nested information feedback and iterative update mechanism of ' millisecond-hour-day-month ' is further designed, which provides theoretical guidance for the new paradigm of blast furnace ironmaking intelligence based on LLM + industrial agent.
+  - Based on the actual scene of blast furnace ironmaking, the general implementation path of ' 1 central + 5 levels ' is proposed for the first time.
+  - A simple agent for intelligent monitoring, early warning and decision-making of blast furnace temperature is constructed to carry out case verification, and the existing key challenges and targeted countermeasures are analyzed.
+</div>
+
+<div class="lang-zh" markdown="1">
+  - 首次构建了高炉炼铁垂直LLM与工业智能体的协同架构，进一步设计"毫秒级-小时级-日度级-月度级"的嵌套式信息反馈与迭代更新机制，为基于LLM+工业智能体的高炉炼铁智能化新范式提供理论指导。
+  - 基于高炉炼铁实际场景，首次提出"1中枢+5层级"通用实施路径。
+  - 构建了高炉炉温智能监测、预警、决策的简易智能体开展实例验证，剖析了现存关键挑战及针对性应对措施。
+</div>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Iron & Steel 2025</div><img src='../../images/Iron_Steel_1.png' alt="sym" width="400px"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,6 +110,7 @@ Ran Liu, **Yifan Duan**, Xiaojie Liu, Qing Lv
 
 </div>
 </div>
+
 
 [//]: # (- `NeurIPS 2024` [MimicTalk: Mimicking a Personalized and Expressive 3D Talking Face in Minutes]&#40;https://proceedings.neurips.cc/paper_files/paper/2024/hash/034cd49870f1cc253fc08686049ae7eb-Abstract-Conference.html&#41;, Zhenhui Ye, Tianyun Zhong, **Yi Ren**, et al.)
 
