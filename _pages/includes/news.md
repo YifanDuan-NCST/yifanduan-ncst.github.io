@@ -1,8 +1,9 @@
 <h1 id="-news"><span class="lang-en">🔥 News</span><span class="lang-zh">🔥 新闻</span></h1>
 
 <div class="lang-en" markdown="1">
+- *2026.09*: As the reporter, I participated in the National Academic Annual Conference on Blast Furnace Ironmaking，and gave an [academic report](https://h5.eqxiu.com/s/7zlQyC60?exemplarReview=true) titled High‑Quality Data Base: Driving Characterization and Enhanced Analysis of Blast Furnace Condition Behavior in Chengdu, Sichuan！
 - *2026.08*: I participated in the 9th National University Metallurgical Science and Technology Competition <img src='../images/yjkjjs.png' style='width: 2em;'> and won [the First Prize](http://www.yjkjjs.com/notice/view/id/945.html)!
-- *2025.12*: 🎉 I am honored to be selected for the Doctoral Special Program of the 2025 China Association for [Science and Technology Youth Science and Technology Talent Cultivation Project](https://newstest.ncst.edu.cn/col/1393558054724/2026/01/08/1767841936525.html)!
+- *2025.12*: 🎉 I am honored to be selected for the Doctoral Special Program of the 2025 China Association for [Science and Technology Youth Science and Technology Talent Cultivation Project](https://newstest.ncst.edu.cn/col/1393558054724/2026/01/08/1767841936525.html)(The only awardee of North China University of Science and Technology)!
 - *2025.10*: 🎉 I am honored to receive the 2025 [National Scholarship for Doctoral Students of North China University of Science and Technology (BSY202514105)](https://zwfw.moe.gov.cn/xszz/)!
 - *2025.05*: As the reporter, I participated in the 7th Ironmaking Youth Scholars Forum and gave an [academic report](https://www.sohu.com/a/897377782_313737) titled Research Status, Application and Prospect of Knowledge Graph in Intelligent Blast Furnace Ironmaking in Wuhan, Hubei!
 - *2024.11*: As the reporter, I participated in the 2024 National Annual Academic Conference on Blast Furnace Ironmaking and gave an [academic report](https://www.csm.org.cn/col/col8034/art/2024/art_1012223809.html) titled Research on Abnormal State Detection and Adaptive Regulation of Blast Furnace Tuyeres in Nanchang, Jiangxi !
@@ -13,8 +14,9 @@
 </div>
 
 <div class="lang-zh" markdown="1">
+- *2026.09*: 我以汇报人身份参与2026年全国高炉炼铁学术年会，并作题为《高质量数据基座：驱动高炉炉况行为表征与增强解析》的[学术报告](https://h5.eqxiu.com/s/7zlQyC60?exemplarReview=true)（四川成都）！
 - *2026.08*: 我参与第九届全国大学生冶金科技竞赛<img src='../images/yjkjjs.png' style='width: 2em;'>并获得[一等奖](http://www.yjkjjs.com/notice/view/id/945.html)！
-- *2025.12*: 🎉 我有幸入选2025年[中国科协青年科技人才培育工程博士生专项](https://newstest.ncst.edu.cn/col/1393558054724/2026/01/08/1767841936525.html)！
+- *2025.12*: 🎉 我有幸入选2025年[中国科协青年科技人才培育工程博士生专项](https://newstest.ncst.edu.cn/col/1393558054724/2026/01/08/1767841936525.html)(华北理工大学首届唯一入选者)！
 - *2025.10*: 🎉 我有幸获得华北理工大学博士研究生2025年度[国家奖学金（BSY202514105）](https://zwfw.moe.gov.cn/xszz/)！
 - *2025.05*: 我以汇报人身份参与第七届炼铁青年学者论坛，并作题为《知识图谱在高炉炼铁智能化中的研究现状、应用及展望》的[学术报告](https://www.sohu.com/a/897377782_313737)（湖北武汉）！
 - *2024.11*: 我以汇报人身份参与2024年全国高炉炼铁学术年会，并做题为《高炉风口异常状态检测与自适应调控研究》的[学术报告](https://www.csm.org.cn/col/col8034/art/2024/art_1012223809.html)（江西南昌）！
