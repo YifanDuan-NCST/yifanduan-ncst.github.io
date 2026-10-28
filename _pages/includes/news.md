@@ -1,6 +1,7 @@
 <h1 id="-news"><span class="lang-en">🔥 News</span><span class="lang-zh">🔥 新闻</span></h1>
 
 <div class="lang-en" markdown="1">
+- *2026.10*: As the person in charge, I participated in <img src='../images/cxcy.png' style='width: 20em;'> the China International College Students' Innovation Competition (2026), and submitted the project titled **SteelSmart Cloud - Intelligent Identification and Early Warning Service for Blast Furnace Tuyere Conditions**, which won the **Gold Award** for the Postgraduate Group of the Main Track in Hebei Province in Chengde, Hebei!
 - *2026.09*: As the reporter, I participated in the National Academic Annual Conference on Blast Furnace Ironmaking，and gave an [academic report](https://h5.eqxiu.com/s/7zlQyC60?exemplarReview=true) titled High‑Quality Data Base: Driving Characterization and Enhanced Analysis of Blast Furnace Condition Behavior in Chengdu, Sichuan！
 - *2026.08*: I participated in the 9th National University Metallurgical Science and Technology Competition <img src='../images/yjkjjs.png' style='width: 2em;'> and won [the First Prize](http://www.yjkjjs.com/notice/view/id/945.html)!
 - *2025.12*: 🎉 I am honored to be selected for the Doctoral Special Program of the 2025 China Association for [Science and Technology Youth Science and Technology Talent Cultivation Project](https://newstest.ncst.edu.cn/col/1393558054724/2026/01/08/1767841936525.html)(The only awardee of North China University of Science and Technology)!
@@ -14,6 +15,7 @@
 </div>
 
 <div class="lang-zh" markdown="1">
+- *2026.10*: 我以负责责任身份参与<img src='../images/cxcy.png' style='width: 20em;'>中国国际大学生创新大赛（2026），提交题为《钢智云创-高炉风口状态智能识别与预警服务》的参赛项目，获**河北省高教主赛道研究生组金奖**（河北承德）！
 - *2026.09*: 我以汇报人身份参与2026年全国高炉炼铁学术年会，并作题为《高质量数据基座：驱动高炉炉况行为表征与增强解析》的[学术报告](https://h5.eqxiu.com/s/7zlQyC60?exemplarReview=true)（四川成都）！
 - *2026.08*: 我参与第九届全国大学生冶金科技竞赛<img src='../images/yjkjjs.png' style='width: 2em;'>并获得[一等奖](http://www.yjkjjs.com/notice/view/id/945.html)！
 - *2025.12*: 🎉 我有幸入选2025年[中国科协青年科技人才培育工程博士生专项](https://newstest.ncst.edu.cn/col/1393558054724/2026/01/08/1767841936525.html)(华北理工大学首届唯一入选者)！
